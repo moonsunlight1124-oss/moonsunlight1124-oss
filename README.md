@@ -1,4 +1,4 @@
-Hi, everyone. 🌞🌙
+Hello, everyone. 🌞🌙
 
 Between day and night, I design and build systems that actually ship — from web applications to automations and AI-powered workflows.
 
