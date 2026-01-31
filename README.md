@@ -1,95 +1,106 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+# Full-Stack Software Engineer
 
-# 👋 Hi, I’m a Full-Stack Developer
-
-### Building fast, scalable & production-ready web applications
-
-💻 Full-Stack Engineer  
-⚡ Clean Architecture • Performance • UX  
-🌍 Remote • Open to freelance & long-term work  
+**Designing & building scalable, production-grade web systems**
 
 </div>
 
 ---
 
-## 🌌 About Me
+## Professional Summary
 
-I’m a **Full-Stack Developer** with strong experience in building modern web applications from idea to production.  
-I enjoy working on **real products**, improving existing systems, and turning complex logic into clean, maintainable code.
+Results-driven **Full-Stack Software Engineer** with strong experience delivering **secure, scalable, and maintainable web applications**.  
+Specialized in translating business requirements into reliable technical solutions, with a strong focus on **clean architecture, performance, and long-term maintainability**.
 
-I focus on:
-- High-performance UI
-- Scalable backend systems
-- Clean, readable code
-- Real-world business problems
+Comfortable working independently or within cross-functional teams, and experienced in owning projects from concept through deployment and optimization.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Competencies
 
-### 🎨 Frontend
+- Full-Stack Application Development  
+- REST & API-Driven Architecture  
+- Authentication, Authorization & Security  
+- Performance Optimization & Scalability  
+- Clean Code & System Design  
+- Agile & Remote Collaboration  
+
+---
+
+## Technical Expertise
+
+### Frontend Engineering
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
+- Responsive and accessible UI development  
+- Component-driven architecture  
+- SEO and performance optimization  
+
+---
+
+### Backend Engineering
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 </p>
 
-### ☁️ DevOps & Tools
+- RESTful APIs and server-side logic  
+- Database design and optimization  
+- Authentication & role-based access control  
+
+---
+
+### DevOps & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel" />
 </p>
 
-### 🤖 AI-Assisted Development
+- CI/CD pipelines  
+- Cloud deployment & monitoring  
+- Environment configuration & security  
+
+---
+
+### AI & Automation
 <p>
-<img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Claude_AI-000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/OpenAI_API-000?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/Claude_Code-000?style=for-the-badge" />
 </p>
 
----
-
-## 🚀 What I Build
-- Full-stack SaaS platforms  
-- Marketplaces & dashboards  
-- Authentication & payments  
-- Real-time apps (WebSockets)  
 - AI-powered workflows  
-- Performance-heavy UIs  
+- Intelligent automation & integrations  
 
 ---
 
-## 🎯 Coding in Action
+## Selected Work Focus
+
+- SaaS platforms & internal tools  
+- Custom dashboards & analytics  
+- Authentication systems & user portals  
+- High-performance, data-driven applications  
+- AI-assisted features and automation  
+
+---
+
+## GitHub Analytics
+
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE1b2I5Y3VxM3R2bTRxMGp6bXl5d3J5YzZ2M2M1Y2F1a3B1c3ZlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true" height="160"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Collaboration
 
-<div align="center">
+I work with:
+- Startups and founders  
+- Agencies and product teams  
+- Long-term technical partnerships  
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🌍 Let’s Connect
-
-💼 Open to freelance & long-term collaboration  
-📬 Contact via GitHub or LinkedIn  
-⚡ I value clarity, speed, and quality  
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
-</div>
+📩 Open to freelance, contract, and full-time opportunities
