@@ -1,97 +1,72 @@
-<!-- ===== HERO / BACKGROUND FEEL ===== -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="220"/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
 
-<h1>Hi, I’m a Full-Stack Developer</h1>
-<p><b>AI • Web3 • Trading • High-Performance Web Apps</b></p>
+# 👋 Hi, I’m a Full-Stack Developer
 
-<p>
-Building clean, scalable systems with a strong focus on performance, UX, and real business logic.
-</p>
+### Building fast, scalable & production-ready web applications
+
+💻 Full-Stack Engineer  
+⚡ Clean Architecture • Performance • UX  
+🌍 Remote • Open to freelance & long-term work  
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🌌 About Me
 
-I’m a **Full-Stack Developer** experienced in building **production-grade applications**, not demos.  
-I specialize in **AI-assisted development**, **trading systems**, and **complex logic-driven platforms**.
+I’m a **Full-Stack Developer** with strong experience in building modern web applications from idea to production.  
+I enjoy working on **real products**, improving existing systems, and turning complex logic into clean, maintainable code.
 
-I care about:
-- Correctness over hacks  
-- Performance over shortcuts  
-- Clean architecture over quick wins  
+I focus on:
+- High-performance UI
+- Scalable backend systems
+- Clean, readable code
+- Real-world business problems
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 </p>
 
-### AI / Automation
+### ☁️ DevOps & Tools
 <p>
-<img src="https://img.shields.io/badge/Claude_Code-000?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel" />
+</p>
+
+### 🤖 AI-Assisted Development
+<p>
 <img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI_API-000?style=for-the-badge&logo=openai" />
-</p>
-
-### Web3 / Trading
-<p>
-<img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana" />
-<img src="https://img.shields.io/badge/WebSockets-000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Real--Time_Charts-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude_AI-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### ⚡ Trading Game / Market UI
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"/>
-
-**Tech:** Next.js • Canvas • WebSockets  
-**Highlights:**  
-- Real-time chart rendering  
-- Deterministic PnL logic  
-- Performance-optimized UI  
-
-🔗 **Repo:** https://github.com/YOUR_USERNAME/trading-ui
+## 🚀 What I Build
+- Full-stack SaaS platforms  
+- Marketplaces & dashboards  
+- Authentication & payments  
+- Real-time apps (WebSockets)  
+- AI-powered workflows  
+- Performance-heavy UIs  
 
 ---
 
-### 🤖 AI Workflow Platform
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%"/>
-
-**Tech:** Next.js • Node.js • OpenAI • Claude  
-**Highlights:**  
-- Rule-based workflows  
-- AI-assisted automation  
-- Scalable backend design  
-
-🔗 **Repo:** https://github.com/YOUR_USERNAME/ai-platform
-
----
-
-### 🌐 Web3 Dashboard
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="100%"/>
-
-**Tech:** React • Solana • Wallet Auth  
-**Highlights:**  
-- Wallet connection  
-- On-chain / off-chain sync  
-- Secure transaction handling  
-
-🔗 **Repo:** https://github.com/YOUR_USERNAME/web3-dashboard
+## 🎯 Coding in Action
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE1b2I5Y3VxM3R2bTRxMGp6bXl5d3J5YzZ2M2M1Y2F1a3B1c3ZlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+</div>
 
 ---
 
@@ -107,15 +82,14 @@ I care about:
 
 ---
 
-## 🤝 Work With Me
+## 🌍 Let’s Connect
 
-✔ Full-Stack Development  
-✔ AI-First Products  
-✔ Trading & Real-Time Systems  
-✔ Web3 Frontends  
-
-📬 Open to **freelance**, **contracts**, and **long-term roles**
+💼 Open to freelance & long-term collaboration  
+📬 Contact via GitHub or LinkedIn  
+⚡ I value clarity, speed, and quality  
 
 <div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
 </div>
