@@ -1,59 +1,121 @@
-Hello, everyone. 🌞🌙
+<!-- ===== HERO / BACKGROUND FEEL ===== -->
+<div align="center">
 
-Between day and night, I design and build systems that actually ship — from web applications to automations and AI-powered workflows.
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="220"/>
 
----
+<h1>Hi, I’m a Full-Stack Developer</h1>
+<p><b>AI • Web3 • Trading • High-Performance Web Apps</b></p>
 
-## About me
+<p>
+Building clean, scalable systems with a strong focus on performance, UX, and real business logic.
+</p>
 
-- Full-stack developer focused on **web applications, automation and AI**
-- Experienced in integrating tools like **n8n**, **Kommo (amoCRM)** and custom APIs
-- Comfortable working across **frontend, backend and integrations**
-- Oriented toward **scalable, maintainable systems** rather than quick hacks
-
----
-
-## Focus areas
-
-- Design and development of **SaaS dashboards** and internal tools  
-- **Business process automation** using n8n and third-party APIs  
-- **CRM workflows** (Kommo and others) integrated with email, chat, payments and AI  
-- AI-assisted flows: lead qualification, messaging, content and data enrichment  
-- E-commerce / product flows: checkout, orders, payments, analytics  
+</div>
 
 ---
 
-## Tech stack
+## 🧠 About Me
 
-**Frontend**
+I’m a **Full-Stack Developer** experienced in building **production-grade applications**, not demos.  
+I specialize in **AI-assisted development**, **trading systems**, and **complex logic-driven platforms**.
 
-- React, Next.js  
-- TypeScript, JavaScript  
-- Tailwind CSS / modern component libraries  
+I care about:
+- Correctness over hacks  
+- Performance over shortcuts  
+- Clean architecture over quick wins  
 
-**Backend & APIs**
+---
 
-- Node.js (Express / Nest or similar)  
-- REST APIs, webhooks, background jobs  
-- Authentication, authorization, multi-tenant patterns  
+## 🛠 Tech Stack
 
-**Automation, CRM & AI**
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
+</p>
 
-- n8n for workflow automation and integrations  
-- Kommo (amoCRM) for sales pipelines and automation  
-- API-based **LLM / AI** integrations (assistants, chatbots, tools, agents)  
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+</p>
 
-**Data & Infrastructure**
+### AI / Automation
+<p>
+<img src="https://img.shields.io/badge/Claude_Code-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI_API-000?style=for-the-badge&logo=openai" />
+</p>
 
-- PostgreSQL, MySQL, SQLite, Supabase  
-- Docker, basic CI/CD and cloud deployment workflows  
-- Git, GitHub and branch-based collaboration  
+### Web3 / Trading
+<p>
+<img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana" />
+<img src="https://img.shields.io/badge/WebSockets-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real--Time_Charts-000?style=for-the-badge" />
+</p>
 
-## How I work
+---
 
-- Break complex projects into small, incremental deliverables 
-- Prefer simple, transparent architectures over unnecessary complexity  
-- Write code and workflows that are documented, testable and easy to extend
-- Communicate clearly about trade-offs, constraints and timelines  
+## 🚀 Featured Projects
 
-Thanks for reading.
+### ⚡ Trading Game / Market UI
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"/>
+
+**Tech:** Next.js • Canvas • WebSockets  
+**Highlights:**  
+- Real-time chart rendering  
+- Deterministic PnL logic  
+- Performance-optimized UI  
+
+🔗 **Repo:** https://github.com/YOUR_USERNAME/trading-ui
+
+---
+
+### 🤖 AI Workflow Platform
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%"/>
+
+**Tech:** Next.js • Node.js • OpenAI • Claude  
+**Highlights:**  
+- Rule-based workflows  
+- AI-assisted automation  
+- Scalable backend design  
+
+🔗 **Repo:** https://github.com/YOUR_USERNAME/ai-platform
+
+---
+
+### 🌐 Web3 Dashboard
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="100%"/>
+
+**Tech:** React • Solana • Wallet Auth  
+**Highlights:**  
+- Wallet connection  
+- On-chain / off-chain sync  
+- Secure transaction handling  
+
+🔗 **Repo:** https://github.com/YOUR_USERNAME/web3-dashboard
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🤝 Work With Me
+
+✔ Full-Stack Development  
+✔ AI-First Products  
+✔ Trading & Real-Time Systems  
+✔ Web3 Frontends  
+
+📬 Open to **freelance**, **contracts**, and **long-term roles**
+
+<div align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
+</div>
