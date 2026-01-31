@@ -87,16 +87,8 @@ Comfortable working independently or within cross-functional teams, and experien
 ## GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=1800"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite&hide_border=true&cache_seconds=1800"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=true&show_icons=true&theme=graywhite&hide_border=true" />
 </p>
-
 ---
 
 ## Collaboration
