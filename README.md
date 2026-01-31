@@ -1,101 +1,51 @@
-<div align="center">
+# 👋 Hi, I'm a Full-Stack Developer
 
-# Full-Stack Software Engineer
-
-**Designing & building scalable, production-grade web systems**
-
-</div>
+I’m a results-driven **Full-Stack Software Engineer** with strong experience building
+scalable, secure, and high-performance web applications.
+I focus on clean architecture, maintainable code, and real-world business impact.
 
 ---
 
-## Professional Summary
+## 🧠 About Me
 
-Results-driven **Full-Stack Software Engineer** with strong experience delivering **secure, scalable, and maintainable web applications**.  
-Specialized in translating business requirements into reliable technical solutions, with a strong focus on **clean architecture, performance, and long-term maintainability**.
-
-Comfortable working independently or within cross-functional teams, and experienced in owning projects from concept through deployment and optimization.
-
----
-
-## Core Competencies
-
-- Full-Stack Application Development  
-- REST & API-Driven Architecture  
-- Authentication, Authorization & Security  
-- Performance Optimization & Scalability  
-- Clean Code & System Design  
-- Agile & Remote Collaboration  
+- 💻 Full-Stack Developer (Frontend + Backend)
+- ⚙️ Passionate about scalable systems and clean UI
+- 🚀 Experience shipping production-ready applications
+- 🌍 Comfortable working with remote and international teams
 
 ---
 
-## Technical Expertise
+## 🛠️ Tech Stack
 
-### Frontend Engineering
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 
-- Responsive and accessible UI development  
-- Component-driven architecture  
-- SEO and performance optimization  
+### 🧩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
----
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 
-### Backend Engineering
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
-</p>
-
-- RESTful APIs and server-side logic  
-- Database design and optimization  
-- Authentication & role-based access control  
-
----
-
-### DevOps & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel" />
-</p>
-
-- CI/CD pipelines  
-- Cloud deployment & monitoring  
-- Environment configuration & security  
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
 
 ---
 
-### AI & Automation
-<p>
-<img src="https://img.shields.io/badge/OpenAI_API-000?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/Claude_Code-000?style=for-the-badge" />
-</p>
+## 📊 GitHub Analytics
 
-- AI-powered workflows  
-- Intelligent automation & integrations  
-
----
-
-## Selected Work Focus
-
-- SaaS platforms & internal tools  
-- Custom dashboards & analytics  
-- Authentication systems & user portals  
-- High-performance, data-driven applications  
-- AI-assisted features and automation  
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=true&show_icons=true&theme=graywhite&hide_border=true" />
-</p>
----
-
-## Collaboration
-
-I work with:
-- Startups and founders  
-- Agencies and product teams  
-- Long-term technical partnerships  
-
-📩 Open to freelance, contract, and full-time opportunities
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Langu]()
