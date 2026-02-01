@@ -1,51 +1,79 @@
-# 👋 Hi, I'm a Full-Stack Developer
+<div align="center">
 
-I’m a results-driven **Full-Stack Software Engineer** with strong experience building
-scalable, secure, and high-performance web applications.
-I focus on clean architecture, maintainable code, and real-world business impact.
+<h1>👋 Hi, I’m a Full-Stack Developer</h1>
+<p><b>Building scalable, high-performance web applications</b></p>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Full-Stack Developer (Frontend + Backend)
-- ⚙️ Passionate about scalable systems and clean UI
-- 🚀 Experience shipping production-ready applications
-- 🌍 Comfortable working with remote and international teams
+I’m a **Full-Stack Software Engineer** with experience building
+production-ready web applications using modern frontend and backend technologies.
+I focus on **clean architecture, performance, and maintainable code**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
+</p>
 
 ### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
 ### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 What I Build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Langu]()
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+</p>
+
+- Full-stack SaaS applications  
+- Dashboards & admin panels  
+- Authentication & payment systems  
+- Real-time apps (WebSockets)  
+- Performance-optimized UIs  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+</p>
+
+- 📧 Email: your.email@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/yourprofile  
+- 🌐 Portfolio: yourwebsite.com  
+
+---
+
+⭐️ *Open to freelance, contract, and long-term collaboration*
