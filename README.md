@@ -1,7 +1,10 @@
 <div align="center">
 
+<!-- DEV BACKGROUND FEEL -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%" height="120"/>
+
 <h1>👋 Hi, I’m a Full-Stack Developer</h1>
-<p><b>Building scalable, high-performance web applications</b></p>
+<p><b>Building modern, scalable & performance-driven web applications</b></p>
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
 
@@ -11,9 +14,13 @@
 
 ## 🧠 About Me
 
-I’m a **Full-Stack Software Engineer** with experience building
-production-ready web applications using modern frontend and backend technologies.
-I focus on **clean architecture, performance, and maintainable code**.
+I’m a **Full-Stack Software Engineer** who enjoys building real products — not demos.  
+I work across **frontend, backend, and system design**, focusing on clean code, strong logic, and smooth user experience.
+
+- 🚀 Production-ready applications  
+- ⚙️ Clean architecture & scalability  
+- 🎯 Detail-oriented & performance-focused  
+- 🌍 Comfortable with remote & global teams  
 
 ---
 
@@ -36,7 +43,14 @@ I focus on **clean architecture, performance, and maintainable code**.
 
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux" />
+</p>
+
+### 🤖 AI-Assisted Development
+<p>
+  <img src="https://img.shields.io/badge/Cursor-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_Code-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-0A0A0A?style=for-the-badge&logo=openai" />
 </p>
 
 ---
@@ -44,14 +58,14 @@ I focus on **clean architecture, performance, and maintainable code**.
 ## 🚀 What I Build
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="240"/>
 </p>
 
-- Full-stack SaaS applications  
-- Dashboards & admin panels  
-- Authentication & payment systems  
+- Full-stack SaaS platforms  
+- Dashboards & admin systems  
+- Authentication & payment flows  
 - Real-time apps (WebSockets)  
-- Performance-optimized UIs  
+- High-performance, data-heavy UIs  
 
 ---
 
@@ -64,16 +78,22 @@ I focus on **clean architecture, performance, and maintainable code**.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 </p>
 
 - 📧 Email: your.email@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/yourprofile  
-- 🌐 Portfolio: yourwebsite.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌐 Portfolio: https://yourwebsite.com  
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%" height="120"/>
+
 ⭐️ *Open to freelance, contract, and long-term collaboration*
+
+</div>
