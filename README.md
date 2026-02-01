@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- DEV BACKGROUND -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%" height="120"/>
 
 <h1>👋 Hi, I’m a Full-Stack Developer</h1>
 <p><b>Building scalable, reliable, and modern web applications</b></p>
@@ -73,7 +71,7 @@ I enjoy turning complex requirements into simple, scalable systems.
 - High-performance, data-driven UIs  
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -82,7 +80,7 @@ I enjoy turning complex requirements into simple, scalable systems.
 </p>
 
 ---
-
+-->
 ## 🎓 Education
 
 **Bachelor of Computer Science**  
@@ -99,9 +97,9 @@ Lviv Polytechnic National University
 ---
 
 <div align="center">
-
+<!--
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%" height="120"/>
-
+-->
 ⭐️ *Open to freelance, contract, and long-term collaboration*
 
 </div>
