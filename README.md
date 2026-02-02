@@ -91,8 +91,6 @@ Lviv Polytechnic National University
 ## 🤝 Let’s Connect
 
 - 📧 Email: moonsunlight1124@gmail.com 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://moon-fullstack.vercel.app/
 
 ---
 
